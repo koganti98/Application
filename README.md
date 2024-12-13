@@ -1,3 +1,3 @@
 # Application
 
-Adding developer A story 
+Adding developer A story here
